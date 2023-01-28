@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/90a384c4-d6cd-4d6c-bc78-f147110af473/deploy-status)](https://app.netlify.com/sites/fakedatagenerator/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90a384c4-d6cd-4d6c-bc78-f147110af473/deploy-status)](https://app.netlify.com/sites/fakedatagenerator/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
