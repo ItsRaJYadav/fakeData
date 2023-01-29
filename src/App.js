@@ -37,9 +37,10 @@ function App() {
                     </li>
                     <li className="list-group-item">Name : {element.firstName} {element.lastName}</li>
                     <li className="list-group-item">Email : {element.email}</li>
-                    <li className="list-group-item">Age: {element.age}</li>
+                    
                     <li className="list-group-item">DOB: {element.dob}</li>
                     <li className="list-group-item">Contact: {element.contactNumber}</li>
+<li className="list-group-item">Age: {element.age}</li>
                     <li className="list-group-item">Address: {element.address}</li>
                   </ul>
 
