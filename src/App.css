@@ -15,12 +15,29 @@
 
 .header {
   background-color: #282c34;
-
   color: white;
   width: 100%;
-  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 1px;
 }
+.subheader {
+  background-color: #f8f9fa;
+  color: #333;
+  padding: 10px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f8f8f8;
+  padding: 10px 0;
+  text-align: center;
+}
+
 
 .App-link {
   color: #61dafb;
